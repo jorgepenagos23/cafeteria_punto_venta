@@ -1,3 +1,69 @@
+LARAVEL BREEZE , TAILWIND CSS , INERTIA VUE  JS 
+
+HOME 
+![image](https://github.com/user-attachments/assets/03a69def-0614-4924-9616-2172cfb725ad)
+
+
+LOGING LARAVEL BREEZE AND SANCTUM
+![image](https://github.com/user-attachments/assets/c3cb17be-6381-49ef-b5c2-a191d08f938b)
+
+DASHBOARD
+
+![image](https://github.com/user-attachments/assets/4e7437d5-5006-4a5d-b3b3-8a20fe969282)
+
+shopping cart  
+![image](https://github.com/user-attachments/assets/ff565893-027e-4436-8a2f-ce64a40c6f30)
+
+![image](https://github.com/user-attachments/assets/f872fbdb-aa3a-4205-a4f6-602492ebf9c9)
+
+
+CRUD ADD PRODUCTS , DELETE , EDIT 
+![image](https://github.com/user-attachments/assets/6ffdf9d1-07b5-4c35-99b2-f1c8293d7c5b)
+
+ADD
+![image](https://github.com/user-attachments/assets/c90c79c8-026b-486c-b8a2-44a5bad97d76)
+
+EDIT 
+![image](https://github.com/user-attachments/assets/6fae0b46-0b40-4c35-9496-30a8dc7f6965)
+
+
+DELETE DROP 
+![image](https://github.com/user-attachments/assets/4cd18afa-e141-48ed-9135-1f7242177960)
+
+
+SALES TABLE
+![image](https://github.com/user-attachments/assets/d4798909-5271-4743-bbd0-8a29b2c62185)
+
+
+3 MOST SALES PRODUCTS
+![image](https://github.com/user-attachments/assets/6a74606a-8d84-48d3-b4f1-ba8291260026)
+
+
+CHART OF MOST SALES PRODUCTS
+![image](https://github.com/user-attachments/assets/d3586e86-767d-4e7c-b47e-b5f8efb299d3)
+
+SQL RANGE DATE INFO PER SALES OF PRODUCTS
+![image](https://github.com/user-attachments/assets/5b8313b7-2d7a-4e34-a1f4-6dc0088b4174)
+
+LARAVEL BREEZE
+
+![image](https://github.com/user-attachments/assets/3a2ae48c-c83e-41d1-8bdd-2461ab5d9d3c)
+
+
+RESPONSIVE DESIGN
+![image](https://github.com/user-attachments/assets/77112100-5be9-4a9d-91e9-f9636a72bc99)
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
